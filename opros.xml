@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<row>
+		<id>
+			179
+		</id>
+		<prepodavateli_fio>
+			Мамдов Рахмон Махмудович
+		</prepodavateli_fio>
+		<lesson_c>
+			5
+		</lesson_c>
+		<subject_s>
+			ООП
+		</subject_s>
+		<question1_text>
+			1: Насколько хорошо преподаватель мотивирует Вас к изучению предмета
+		</question1_text>
+		<question2_text>
+			2: Насколько справедливо, на Ваш взгляд, преподаватель оценил Ваши знания
+		</question2_text>
+		<question3_text>
+			3: Соответствовали ли задания преподавателя пройденному материалу
+		</question3_text>
+		<question4_text>
+			4: Ваш преподаватель старается донести до Вас смысл или факты
+		</question4_text>
+		<question5_text>
+			5: Насколько четко и понятно преподаватель объясняет материал
+		</question5_text>
+		<grade_1>
+			1
+		</grade_1>
+		<grade_2>
+			1
+		</grade_2>
+		<grade_3>
+			1
+		</grade_3>
+		<grade_4>
+			1
+		</grade_4>
+		<grade_5>
+			1
+		</grade_5>
+		<comment_text>
+			1
+		</comment_text>
+	</row>
+	<row>
+		<id>
+			180
+		</id>
+		<prepodavateli_fio>
+			Мамдов Рахмон Махмудович
+		</prepodavateli_fio>
+		<lesson_c>
+			5
+		</lesson_c>
+		<subject_s>
+			ООП
+		</subject_s>
+		<question1_text>
+			1: Насколько хорошо преподаватель мотивирует Вас к изучению предмета
+		</question1_text>
+		<question2_text>
+			2: Насколько справедливо, на Ваш взгляд, преподаватель оценил Ваши знания
+		</question2_text>
+		<question3_text>
+			3: Соответствовали ли задания преподавателя пройденному материалу
+		</question3_text>
+		<question4_text>
+			4: Ваш преподаватель старается донести до Вас смысл или факты
+		</question4_text>
+		<question5_text>
+			5: Насколько четко и понятно преподаватель объясняет материал
+		</question5_text>
+		<grade_1>
+			1
+		</grade_1>
+		<grade_2>
+			1
+		</grade_2>
+		<grade_3>
+			1
+		</grade_3>
+		<grade_4>
+			3
+		</grade_4>
+		<grade_5>
+			3
+		</grade_5>
+		<comment_text>
+			фывфы
+		</comment_text>
+	</row>
+	<row>
+		<id>
+			181
+		</id>
+		<prepodavateli_fio>
+			Мамдов Рахмон Махмудович
+		</prepodavateli_fio>
+		<lesson_c>
+			5
+		</lesson_c>
+		<subject_s>
+			ООП
+		</subject_s>
+		<question1_text>
+			1: Насколько хорошо преподаватель мотивирует Вас к изучению предмета
+		</question1_text>
+		<question2_text>
+			2: Насколько справедливо, на Ваш взгляд, преподаватель оценил Ваши знания
+		</question2_text>
+		<question3_text>
+			3: Соответствовали ли задания преподавателя пройденному материалу
+		</question3_text>
+		<question4_text>
+			4: Ваш преподаватель старается донести до Вас смысл или факты
+		</question4_text>
+		<question5_text>
+			5: Насколько четко и понятно преподаватель объясняет материал
+		</question5_text>
+		<grade_1>
+			1
+		</grade_1>
+		<grade_2>
+			1
+		</grade_2>
+		<grade_3>
+			1
+		</grade_3>
+		<grade_4>
+			1
+		</grade_4>
+		<grade_5>
+			1
+		</grade_5>
+		<comment_text>
+			asd
+		</comment_text>
+	</row>
+	<row>
+		<id>
+			182
+		</id>
+		<prepodavateli_fio>
+			Мамдов Рахмон Махмудович
+		</prepodavateli_fio>
+		<lesson_c>
+			5
+		</lesson_c>
+		<subject_s>
+			ООП
+		</subject_s>
+		<question1_text>
+			1: Насколько хорошо преподаватель мотивирует Вас к изучению предмета
+		</question1_text>
+		<question2_text>
+			2: Насколько справедливо, на Ваш взгляд, преподаватель оценил Ваши знания
+		</question2_text>
+		<question3_text>
+			3: Соответствовали ли задания преподавателя пройденному материалу
+		</question3_text>
+		<question4_text>
+			4: Ваш преподаватель старается донести до Вас смысл или факты
+		</question4_text>
+		<question5_text>
+			5: Насколько четко и понятно преподаватель объясняет материал
+		</question5_text>
+		<grade_1>
+			1
+		</grade_1>
+		<grade_2>
+			1
+		</grade_2>
+		<grade_3>
+			1
+		</grade_3>
+		<grade_4>
+			1
+		</grade_4>
+		<grade_5>
+			1
+		</grade_5>
+		<comment_text>
+			asd
+		</comment_text>
+	</row>
+	<row>
+		<id>
+			183
+		</id>
+		<prepodavateli_fio>
+			Мамдов Рахмон Махмудович
+		</prepodavateli_fio>
+		<lesson_c>
+			5
+		</lesson_c>
+		<subject_s>
+			ООП
+		</subject_s>
+		<question1_text>
+			1: Насколько хорошо преподаватель мотивирует Вас к изучению предмета
+		</question1_text>
+		<question2_text>
+			2: Насколько справедливо, на Ваш взгляд, преподаватель оценил Ваши знания
+		</question2_text>
+		<question3_text>
+			3: Соответствовали ли задания преподавателя пройденному материалу
+		</question3_text>
+		<question4_text>
+			4: Ваш преподаватель старается донести до Вас смысл или факты
+		</question4_text>
+		<question5_text>
+			5: Насколько четко и понятно преподаватель объясняет материал
+		</question5_text>
+		<grade_1>
+			1
+		</grade_1>
+		<grade_2>
+			1
+		</grade_2>
+		<grade_3>
+			1
+		</grade_3>
+		<grade_4>
+			1
+		</grade_4>
+		<grade_5>
+			1
+		</grade_5>
+		<comment_text>
+			asd
+		</comment_text>
+	</row>
+	<row>
+		<id>
+			184
+		</id>
+		<prepodavateli_fio>
+			Мамдов Рахмон Махмудович
+		</prepodavateli_fio>
+		<lesson_c>
+			5
+		</lesson_c>
+		<subject_s>
+			ООП
+		</subject_s>
+		<question1_text>
+			1: Насколько хорошо преподаватель мотивирует Вас к изучению предмета
+		</question1_text>
+		<question2_text>
+			2: Насколько справедливо, на Ваш взгляд, преподаватель оценил Ваши знания
+		</question2_text>
+		<question3_text>
+			3: Соответствовали ли задания преподавателя пройденному материалу
+		</question3_text>
+		<question4_text>
+			4: Ваш преподаватель старается донести до Вас смысл или факты
+		</question4_text>
+		<question5_text>
+			5: Насколько четко и понятно преподаватель объясняет материал
+		</question5_text>
+		<grade_1>
+			1
+		</grade_1>
+		<grade_2>
+			1
+		</grade_2>
+		<grade_3>
+			1
+		</grade_3>
+		<grade_4>
+			1
+		</grade_4>
+		<grade_5>
+			1
+		</grade_5>
+		<comment_text>
+			asd
+		</comment_text>
+	</row>
+	<row>
+		<id>
+			185
+		</id>
+		<prepodavateli_fio>
+			Мамдов Рахмон Махмудович
+		</prepodavateli_fio>
+		<lesson_c>
+			5
+		</lesson_c>
+		<subject_s>
+			ООП
+		</subject_s>
+		<question1_text>
+			1: Насколько хорошо преподаватель мотивирует Вас к изучению предмета
+		</question1_text>
+		<question2_text>
+			2: Насколько справедливо, на Ваш взгляд, преподаватель оценил Ваши знания
+		</question2_text>
+		<question3_text>
+			3: Соответствовали ли задания преподавателя пройденному материалу
+		</question3_text>
+		<question4_text>
+			4: Ваш преподаватель старается донести до Вас смысл или факты
+		</question4_text>
+		<question5_text>
+			5: Насколько четко и понятно преподаватель объясняет материал
+		</question5_text>
+		<grade_1>
+			1
+		</grade_1>
+		<grade_2>
+			1
+		</grade_2>
+		<grade_3>
+			1
+		</grade_3>
+		<grade_4>
+			1
+		</grade_4>
+		<grade_5>
+			1
+		</grade_5>
+		<comment_text>
+			asd
+		</comment_text>
+	</row>
+	<row>
+		<id>
+			186
+		</id>
+		<prepodavateli_fio>
+			Мамдов Рахмон Махмудович
+		</prepodavateli_fio>
+		<lesson_c>
+			5
+		</lesson_c>
+		<subject_s>
+			ООП
+		</subject_s>
+		<question1_text>
+			1: Насколько хорошо преподаватель мотивирует Вас к изучению предмета
+		</question1_text>
+		<question2_text>
+			2: Насколько справедливо, на Ваш взгляд, преподаватель оценил Ваши знания
+		</question2_text>
+		<question3_text>
+			3: Соответствовали ли задания преподавателя пройденному материалу
+		</question3_text>
+		<question4_text>
+			4: Ваш преподаватель старается донести до Вас смысл или факты
+		</question4_text>
+		<question5_text>
+			5: Насколько четко и понятно преподаватель объясняет материал
+		</question5_text>
+		<grade_1>
+			1
+		</grade_1>
+		<grade_2>
+			1
+		</grade_2>
+		<grade_3>
+			1
+		</grade_3>
+		<grade_4>
+			1
+		</grade_4>
+		<grade_5>
+			1
+		</grade_5>
+		<comment_text>
+			asd
+		</comment_text>
+	</row>
+	<row>
+		<id>
+			187
+		</id>
+		<prepodavateli_fio>
+			Мамдов Рахмон Махмудович
+		</prepodavateli_fio>
+		<lesson_c>
+			5
+		</lesson_c>
+		<subject_s>
+			ООП
+		</subject_s>
+		<question1_text>
+			1: Насколько хорошо преподаватель мотивирует Вас к изучению предмета
+		</question1_text>
+		<question2_text>
+			2: Насколько справедливо, на Ваш взгляд, преподаватель оценил Ваши знания
+		</question2_text>
+		<question3_text>
+			3: Соответствовали ли задания преподавателя пройденному материалу
+		</question3_text>
+		<question4_text>
+			4: Ваш преподаватель старается донести до Вас смысл или факты
+		</question4_text>
+		<question5_text>
+			5: Насколько четко и понятно преподаватель объясняет материал
+		</question5_text>
+		<grade_1>
+			1
+		</grade_1>
+		<grade_2>
+			1
+		</grade_2>
+		<grade_3>
+			1
+		</grade_3>
+		<grade_4>
+			1
+		</grade_4>
+		<grade_5>
+			1
+		</grade_5>
+		<comment_text>
+			2йц
+		</comment_text>
+	</row>
+	<row>
+		<id>
+			188
+		</id>
+		<prepodavateli_fio>
+			Мамдов Рахмон Махмудович
+		</prepodavateli_fio>
+		<lesson_c>
+			5
+		</lesson_c>
+		<subject_s>
+			ООП
+		</subject_s>
+		<question1_text>
+			1: Насколько хорошо преподаватель мотивирует Вас к изучению предмета
+		</question1_text>
+		<question2_text>
+			2: Насколько справедливо, на Ваш взгляд, преподаватель оценил Ваши знания
+		</question2_text>
+		<question3_text>
+			3: Соответствовали ли задания преподавателя пройденному материалу
+		</question3_text>
+		<question4_text>
+			4: Ваш преподаватель старается донести до Вас смысл или факты
+		</question4_text>
+		<question5_text>
+			5: Насколько четко и понятно преподаватель объясняет материал
+		</question5_text>
+		<grade_1>
+			1
+		</grade_1>
+		<grade_2>
+			1
+		</grade_2>
+		<grade_3>
+			3
+		</grade_3>
+		<grade_4>
+			5
+		</grade_4>
+		<grade_5>
+			4
+		</grade_5>
+		<comment_text>
+			qwqwdqw
+		</comment_text>
+	</row>
+</data>

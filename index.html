@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Опросник</title>
+    <link rel="stylesheet" href="/style/styles.css">
+    <script src="scripts/script.js"></script>
+</head>
+<body>
+    <div class="background"></div>
+    <h1>Опросник</h1>
+    <!-- Форма опросника -->
+    <form action="index.php" method="GET">
+        <!-- ФИО преподавателя -->
+        <b class="name">ФИО преподавателя:</b>
+        <br>
+        <!-- Выбор цикла -->
+        <b class="name">Цикл:</b>
+        <br>
+        <b class="name">Предмет:</b>
+
+        <div id="question">
+            <h2>1: Насколько хорошо преподаватель мотивирует Вас к изучению предмета</h2>
+            <p>Выберите оценку от 1 до 5:</p>
+            <input type="radio" id="rating1_1" name="rating1" value="1">
+            <label for="rating1_1">1</label>
+            <input type="radio" id="rating1_2" name="rating1" value="2">
+            <label for="rating1_2">2</label>
+            <input type="radio" id="rating1_3" name="rating1" value="3">
+            <label for="rating1_3">3</label>
+            <input type="radio" id="rating1_4" name="rating1" value="4">
+            <label for="rating1_4">4</label>
+            <input type="radio" id="rating1_5" name="rating1" value="5">
+            <label for="rating1_5">5</label>
+
+            <h2>2: Насколько справедливо, на Ваш взгляд, преподаватель оценил Ваши знания</h2>
+            <p>Выберите оценку от 1 до 5:</p>
+            <input type="radio" id="rating2_1" name="rating2" value="1">
+            <label for="rating2_1">1</label>
+            <input type="radio" id="rating2_2" name="rating2" value="2">
+            <label for="rating2_2">2</label>
+            <input type="radio" id="rating2_3" name="rating2" value="3">
+            <label for="rating2_3">3</label>
+            <input type="radio" id="rating2_4" name="rating2" value="4">
+            <label for="rating2_4">4</label>
+            <input type="radio" id="rating2_5" name="rating2" value="5">
+            <label for="rating2_5">5</label>
+
+            <h2>3: Соответствовали ли задания преподавателя пройденному материалу</h2>
+            <p>Выберите оценку от 1 до 5:</p>
+            <input type="radio" id="rating3_1" name="rating3" value="1">
+            <label for="rating3_1">1</label>
+            <input type="radio" id="rating3_2" name="rating3" value="2">
+            <label for="rating3_2">2</label>
+            <input type="radio" id="rating3_3" name="rating3" value="3">
+            <label for="rating3_3">3</label>
+            <input type="radio" id="rating3_4" name="rating3" value="4">
+            <label for="rating3_4">4</label>
+            <input type="radio" id="rating3_5" name="rating3" value="5">
+            <label for="rating3_5">5</label>
+
+            <h2>4: Ваш преподаватель старается донести до Вас смысл или факты</h2>
+            <p>Выберите оценку от 1 до 5:</p>
+            <input type="radio" id="rating4_1" name="rating4" value="1">
+            <label for="rating4_1">1</label>
+            <input type="radio" id="rating4_2" name="rating4" value="2">
+            <label for="rating4_2">2</label>
+            <input type="radio" id="rating4_3" name="rating4" value="3">
+            <label for="rating4_3">3</label>
+            <input type="radio" id="rating4_4" name="rating4" value="4">
+            <label for="rating4_4">4</label>
+            <input type="radio" id="rating4_5" name="rating4" value="5">
+            <label for="rating4_5">5</label>
+
+            <h2>5: Насколько четко и понятно преподаватель объясняет материал</h2>
+            <p>Выберите оценку от 1 до 5:</p>
+            <input type="radio" id="rating5_1" name="rating5" value="1">
+            <label for="rating5_1">1</label>
+            <input type="radio" id="rating5_2" name="rating5" value="2">
+            <label for="rating5_2">2</label>
+            <input type="radio" id="rating5_3" name="rating5" value="3">
+            <label for="rating5_3">3</label>
+            <input type="radio" id="rating5_4" name="rating5" value="4">
+            <label for="rating5_4">4</label>
+            <input type="radio" id="rating5_5" name="rating5" value="5">
+            <label for="rating5_5">5</label>
+        </div>
+        <br>
+        <div class="comments">
+            <label for="comments"><b>Комментарии:</b></label>
+            <textarea id="comments" name="comments" rows="4" cols="50"></textarea>
+        </div>
+        <!-- Кнопка отправки формы -->
+        <br>
+        <input type="submit" value="Отправить">
+    </form>
+</body>
+
+</html>

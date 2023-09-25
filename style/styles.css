@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d3d1d1;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+/* ... Ваши стили ... */
+
+.background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('/photo/opross.jpg'); /* Замените 'background-image.jpg' на фактический путь к вашему фоновому изображению */
+    background-size: cover;
+    opacity: 0.5; /* Меняйте значение, чтобы настроить прозрачность фона */
+    z-index: -1; /* Поместить фон под всеми другими элементами */
+}
+
+form {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+b.name {
+    border-radius: 50px;
+    font-size: 20px;
+}
+
+div.comments {
+    font-size: 25px;
+}
+
+input[readonly] {
+    background-color: #f5f5f5; /* Задаем серый фон */
+    border: 1px solid #ddd; /* Задаем серую границу */
+    color: #555; /* Задаем цвет текста */
+    cursor: not-allowed; /* Запрещаем изменение курсора */
+}
+
+input[type="radio"] {
+    margin-right: 10px;
+    width: 15px;
+    height: 15px;
+    margin-bottom: 5px;
+}
+
+textarea {
+    width: 99%;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    resize: vertical;
+}
+
+input[type="submit"] {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    margin-left: 40%;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
